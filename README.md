@@ -8,6 +8,7 @@ Compulsory libraries
 
 GNU Fortran
 
+Python
 
 
 # Quick Start：
