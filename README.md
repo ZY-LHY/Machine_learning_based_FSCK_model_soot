@@ -9,7 +9,7 @@ GNU Fortran
 
 
 
-# Quick Start
+# Quick Start：
 Instructions (A Machine Learning Based Full-spectrum Correlated k-distribution Model for Nonhomogeneous Gas–soot Mixtures):
 
 !-The program is used to calculate k-distributions (32 Gaussa Chebyshev quadrature points)
