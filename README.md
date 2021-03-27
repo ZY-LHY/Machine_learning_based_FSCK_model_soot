@@ -29,3 +29,24 @@ command: ./rhs
 
 Plot the results
 command: python plot.py
+
+# Citation
+If you used this package in your research and is interested in citing it here's how you do it:
+
+@article{ML:Zwr21,
+
+title = {A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures},
+
+journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+
+volume = {268},
+
+pages = {107628},
+
+year = {2021},
+
+issn = {0022-4073},
+
+author = {Ya Zhou and Chaojun Wang and Tao Ren and Changying Zhao}.
+
+}
