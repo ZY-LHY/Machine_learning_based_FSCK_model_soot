@@ -39,14 +39,22 @@ title = {A machine learning based full-spectrum correlated k-distribution model 
 
 journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
 
-volume = {268},
-
-pages = {107628},
-
 year = {2021},
-
-issn = {0022-4073},
 
 author = {Ya Zhou and Chaojun Wang and Tao Ren and Changying Zhao}.
 
 }
+
+
+@article{ML:Zwr20,
+
+title = {A machine learning based efficient and compact full-spectrum correlated $k$-distribution model},
+
+journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+
+year = {2020},
+
+author = {Ya Zhou and Chaojun Wang and Tao Ren},
+
+}
+
