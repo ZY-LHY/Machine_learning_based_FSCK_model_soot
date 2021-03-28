@@ -53,7 +53,7 @@ journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
 
 year = {2020},
 
-author = {Ya Zhou and Chaojun Wang and Tao Ren},
+author = {Ya Zhou and Chaojun Wang and Tao Ren}.
 
 }
 
