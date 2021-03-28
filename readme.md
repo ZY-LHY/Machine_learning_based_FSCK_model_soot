@@ -31,7 +31,6 @@ Plot the results
 command: python plot.py
 
 # Citation
-If you used this package in your research and is interested in citing it here's how you do it:
 
 @article{ML:Zwr21,
 
